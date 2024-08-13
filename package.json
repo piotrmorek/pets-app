@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "npm i && tsc",
     "dev": "ts-node index.ts"
   },
   "keywords": [],
